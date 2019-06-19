@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeBSDTests", "FreeBSDTests\FreeBSDTests.csproj", "{B8B48EAB-A01E-49CD-B85E-EB2B127B8880}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enlightment", "Enlightment\Enlightment.csproj", "{6F9CD61B-AAA2-464E-B634-B6D207768F36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{B8B48EAB-A01E-49CD-B85E-EB2B127B8880}.Debug|x86.Build.0 = Debug|x86
 		{B8B48EAB-A01E-49CD-B85E-EB2B127B8880}.Release|x86.ActiveCfg = Release|x86
 		{B8B48EAB-A01E-49CD-B85E-EB2B127B8880}.Release|x86.Build.0 = Release|x86
+		{6F9CD61B-AAA2-464E-B634-B6D207768F36}.Debug|x86.ActiveCfg = Debug|x86
+		{6F9CD61B-AAA2-464E-B634-B6D207768F36}.Debug|x86.Build.0 = Debug|x86
+		{6F9CD61B-AAA2-464E-B634-B6D207768F36}.Release|x86.ActiveCfg = Release|x86
+		{6F9CD61B-AAA2-464E-B634-B6D207768F36}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
