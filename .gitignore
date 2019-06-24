@@ -10,7 +10,12 @@ autom4te.cache/
 *.tar.gz
 tarballs/
 test-results/
-!FreeBSD/*.*
+!FreeBSD/*.dll
+!FreeBSD/*.exe
+
+
+!addin/*.dll
+
 # Mac bundle stuff
 *.dmg
 *.app
@@ -69,7 +74,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-!addin/*.dll
 
 # content below from: https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 ## Ignore Visual Studio temporary files, build results, and
